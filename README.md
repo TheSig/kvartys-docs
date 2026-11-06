@@ -3,7 +3,7 @@
 > **Note:** The core source code for the Kvartys platform and the WMBus automated meter-reading system is currently proprietary and operates in a private pilot phase. This public repository serves as the official architecture, security, and integration documentation.
 
 ## 👤 Maintainer & Security Role
-This project is solely developed, operated, and maintained by **[Tavs Vārds/Uzvārds]** (GitHub: @[Tavs_GitHub_Username]). 
+This project is solely developed, operated, and maintained by **Juris Bekins** (GitHub: @TheSig). 
 
 As the **lead developer and designated security maintainer**, I am directly responsible for:
 - The architecture and development of the Kvartys platform and WMBus integration.
@@ -12,7 +12,7 @@ As the **lead developer and designated security maintainer**, I am directly resp
 
 ## 🔒 Security Policy
 As the security maintainer, I handle all vulnerability disclosures and security-related issues for this infrastructure. 
-If you are a security researcher and wish to report a potential issue regarding the Kvartys platform, the WMBus data-collection system, or the `kvartys.com` domain, please contact me directly at [Tavs E-pasts].
+If you are a security researcher and wish to report a potential issue regarding the Kvartys platform, the WMBus data-collection system, or the `kvartys.com` domain, please contact me directly at juris.bekins@kvartys.com.
 
 ## 📖 Project Overview
 **Kvartys** is a comprehensive property management platform designed to streamline property administration, billing, and maintenance. It integrates with **WMBus**, a custom-built automated meter-reading system that collects data directly from smart meters to automate utility billing and consumption tracking.
